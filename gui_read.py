@@ -1,4 +1,4 @@
-# Editing from Automate the Boring Stuff with Python <- Al Sweigart is awesome.
+# Editing from Rasbpi Cookbook by Simon Monk <--- this dude is awesome.
 
 import subprocess as sp
 from Tkinter import *
